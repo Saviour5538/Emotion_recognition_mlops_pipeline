@@ -15,9 +15,9 @@ This project implements an **Emotion Recognition Machine Learning pipeline** wit
 motion_recognition_mlops_pipeline/
 │
 ├── data/
-│ ├── raw/ # Raw datasets
-│ ├── processed/ # Cleaned datasets
-│ └── features/ # Features like BOW matrices
+│ ├── raw/Raw datasets
+│ ├── processed/ Cleaned datasets
+│ └── features/Features like BOW matrices
 │
 ├── src/ # Source code
 │ ├── data_preprocessing.py
